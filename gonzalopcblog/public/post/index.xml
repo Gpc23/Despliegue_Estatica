@@ -6,16 +6,27 @@
     <description>Recent content in Posts on GONZALOPCBLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <lastBuildDate>Wed, 15 Nov 2023 17:26:44 +0100</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>youremail@domain.com (Gonzalo Peña)</managingEditor>
+    <webMaster>youremail@domain.com (Gonzalo Peña)</webMaster>
+    <lastBuildDate>Wed, 15 Nov 2023 18:28:37 +0100</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>http://example.org/post/markdown/</link>
+      <pubDate>Wed, 15 Nov 2023 18:28:37 +0100</pubDate>
+      <author>youremail@domain.com (Gonzalo Peña)</author>
+      <guid>http://example.org/post/markdown/</guid>
+      <description>Aqui vamos a escribir en markdown
+Encabezado 1 Encabezado 2 Encabezado 3 Encabezado 4 Encabezado 5 Encabezado 6 El markdown le encanta a josedom
+Elemento de lista 1 Elemento de lista 2 Elemento de lista 3 Elemento de lista 4 Elemento de lista 5 Elemento de lista 6 code</description>
+    </item>
+    
     <item>
       <title>Primer Post</title>
       <link>http://example.org/post/primer-post/</link>
       <pubDate>Wed, 15 Nov 2023 17:26:44 +0100</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>youremail@domain.com (Gonzalo Peña)</author>
       <guid>http://example.org/post/primer-post/</guid>
-      <description>Hola este es mi primer post</description>
+      <description>Hola este es mi primer post </description>
     </item>
     
   </channel>
