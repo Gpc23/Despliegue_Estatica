@@ -48,7 +48,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Some Person"
+  name = "Gonzalo Peña"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
   facebook = "username"
