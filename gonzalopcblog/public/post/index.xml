@@ -8,7 +8,16 @@
     <language>en-us</language>
     <managingEditor>youremail@domain.com (Gonzalo Peña)</managingEditor>
     <webMaster>youremail@domain.com (Gonzalo Peña)</webMaster>
-    <lastBuildDate>Wed, 15 Nov 2023 18:28:37 +0100</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 18:39:40 +0100</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imagen</title>
+      <link>http://example.org/post/imagen/</link>
+      <pubDate>Wed, 15 Nov 2023 18:39:40 +0100</pubDate>
+      <author>youremail@domain.com (Gonzalo Peña)</author>
+      <guid>http://example.org/post/imagen/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Markdown</title>
       <link>http://example.org/post/markdown/</link>
@@ -17,7 +26,7 @@
       <guid>http://example.org/post/markdown/</guid>
       <description>Aqui vamos a escribir en markdown
 Encabezado 1 Encabezado 2 Encabezado 3 Encabezado 4 Encabezado 5 Encabezado 6 El markdown le encanta a josedom
-Elemento de lista 1 Elemento de lista 2 Elemento de lista 3 Elemento de lista 4 Elemento de lista 5 Elemento de lista 6 code</description>
+Elemento de lista 1 Elemento de lista 2 Elemento de lista 3 Elemento de lista 4 Elemento de lista 5 Elemento de lista 6 apt update</description>
     </item>
     
     <item>
